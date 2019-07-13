@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\AppServer\AppClient\bin\Debug\AppClient.exe.config
+C:\Users\Administrator\source\repos\AppServer\AppClient\bin\Debug\AppClient.exe
+C:\Users\Administrator\source\repos\AppServer\AppClient\bin\Debug\AppClient.pdb
+C:\Users\Administrator\source\repos\AppServer\AppClient\bin\Debug\AppClient.xml
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.FrmMain.resources
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.Resources.resources
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.exe
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.xml
+C:\Users\Administrator\source\repos\AppServer\AppClient\obj\Debug\AppClient.pdb

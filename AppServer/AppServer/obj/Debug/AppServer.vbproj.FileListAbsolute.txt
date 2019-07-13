@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\AppServer\AppServer\bin\Debug\AppServer.exe.config
+C:\Users\Administrator\source\repos\AppServer\AppServer\bin\Debug\AppServer.exe
+C:\Users\Administrator\source\repos\AppServer\AppServer\bin\Debug\AppServer.pdb
+C:\Users\Administrator\source\repos\AppServer\AppServer\bin\Debug\AppServer.xml
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.FrmMain.resources
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.Resources.resources
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.exe
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.xml
+C:\Users\Administrator\source\repos\AppServer\AppServer\obj\Debug\AppServer.pdb
